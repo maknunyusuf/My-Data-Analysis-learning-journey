@@ -18,7 +18,7 @@ My learning goals are to develop a strong analytical skills that will prepare me
 
 ## My learning journey
 | tool | purpose | status|
-| -------- |
+| ---------- | | ---------- | | ---------- |
 | Exel | Data Analytics | not started |
 | SQL | Data base Querying | Not started |
 | PowerBI | Create report | | Not started |
