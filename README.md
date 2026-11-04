@@ -23,3 +23,6 @@ My learning goals are to develop a strong analytical skills that will prepare me
 | SQL | Data base Querying | Not started |
 | PowerBI | Create report | | Not started |
 | Python | Data Analysis | | Not started |
+
+## Contact me
+[My Gmail](mailto:yusufmaknun885@gmail.com)
