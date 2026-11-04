@@ -1,4 +1,5 @@
 # My-Data-Analysis-learning-journey
+![prime1](prime1.jpg)
 My journey into data analysis concept, project and exercises as i learn
 ## About me
 I am yusuf maknun,an aspiring accounting professional with a passion for data analysis and technology.
@@ -17,7 +18,7 @@ My learning goals are to develop a strong analytical skills that will prepare me
 4.  Build practical projects
 
 ## My learning journey
-| tool | purpose | status |
+| Tool | purpose | status |
 | ----- |  ---- |  ---- |
 | Exel | Data Analytics | not started |
 | SQL | Data base Querying | Not started |
